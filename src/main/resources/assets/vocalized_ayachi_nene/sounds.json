@@ -1,0 +1,650 @@
+{
+  "ayachi_nene.vocalized.bio": {
+    "sounds": [
+      {
+        "name": "vocalized_ayachi_nene:ayachi_nene/bio",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.allay": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/allay",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.axolotl": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/axolotl",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.bat": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/bat",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.bee": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/bee",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.blaze": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/blaze",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.camel": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/camel",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.cat": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/cat",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.cave_spider": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/cave_spider",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.charged_creeper": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/charged_creeper",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.chicken": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/chicken",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.chicken_jockey": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/chicken_jockey",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.cod": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/cod",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.cow": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/cow",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.creeper": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/creeper",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.dolphin": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/dolphin",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.donkey": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/donkey",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.drowned": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/drowned",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.elder_guardian": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/elder_guardian",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.ender_dragon": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.enderman": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/enderman",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.endermite": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/endermite",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.evoker": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/evoker",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.fish": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/fish",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.fox": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/fox",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.frog": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/frog",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.ghast": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/ghast",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.giant": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/giant",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.goat": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/goat",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.guardian": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/guardian",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.hoglin": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/hoglin",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.horse": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/horse",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.husk": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/husk",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.illusioner": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/illusioner",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.iron_golem": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/iron_golem",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.llama": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/llama",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.magma_cube": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/magma_cube",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.mooshroom": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/mooshroom",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.mule": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/mule",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.ocelot": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/ocelot",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.panda": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/panda",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.parrot": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/parrot",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.phantom": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/phantom",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.pig": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/pig",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.piglin": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/piglin",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.piglin_brute": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/piglin_brute",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.pillager": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/pillager",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.player": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/player",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.polar_bear": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/polar_bear",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.pufferfish": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/pufferfish",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.rabbit": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/rabbit",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.ravager": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/ravager",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.salmon": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/salmon",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.sheep": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/sheep",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.shulker": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/shulker",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.silverfish": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/silverfish",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.skeleton": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/skeleton",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.skeleton_horse": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/skeleton_horse",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.slime": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/slime",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.snow_golem": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/snow_golem",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.spider": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/spider",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.squid": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/squid",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.stray": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/stray",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.strider": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/strider",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.tadpole": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/tadpole",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.tropicalish": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/tropical_fish",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.turtle": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/turtle",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.vex": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/vex",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.villager": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/villager",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.vindicator": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/vindicator",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.wandering_trader": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/wandering_trader",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.warden": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/warden",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.witch": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/witch",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.wither": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/wither",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.wither_skeleton": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/wither_skeleton",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.wolf": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/wolf",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.zoglin": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/zoglin",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.zombie": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/zombie",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.zombie_horse": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/zombie_horse",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.zombie_villager": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/zombie_villager",
+        "stream": true
+      }
+    ]
+  },
+  "ayachi_nene.spotting.minecraft.zombified_piglin": {
+    "sounds": [
+      {
+        "name": "spotting:vocalized_ayachi_nene/ayachi_nene/zombified_piglin",
+        "stream": true
+      }
+    ]
+  }
+}
